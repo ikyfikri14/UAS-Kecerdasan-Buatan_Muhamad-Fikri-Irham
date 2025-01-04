@@ -1,1 +1,2 @@
 # UAS-Kecerdasan-Buatan_Muhamad-Fikri-Irham
+Proyek ini merupakan tugas untuk Ujian Akhir Semester pada mata kuliah Kecerdasan Buatan yang diajar oleh dosen Agung Perdananto. Dalam proyek ini, saya menerapkan Implementasi Sistem Fuzzy untuk Penilaian Kelayakan Kredit menggunakan Metode Mamdani, yang bertujuan untuk menilai tingkat kelayakan kredit seseorang berdasarkan parameter pendapatan, utang, dan riwayat kredit.
